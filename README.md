@@ -1,1 +1,1 @@
-# sist_graficos_cubo
+# CUBO 3D
